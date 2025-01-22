@@ -153,5 +153,3 @@ def home():
     lang='en'
 )
 
-
-serve()
